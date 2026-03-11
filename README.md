@@ -1,3 +1,4 @@
 # Global Brain Tumor Data Analysis Using Excel
 # Excel File  : 
-![Dashboard Screenshot] (https://github.com/KarthigaPrabhakaran/Global-Brain-Tumor-Data-Analysis-Using-Excel/blob/c12de21f3f3cb4c4b8fdfff145bdcaa30ab7e38f/Dashboard_Screenshot.png)
+
+<img width="1092" height="706" alt="image" src="https://github.com/user-attachments/assets/a3072f2a-4613-438f-80cd-1d59b1b3532c" />
